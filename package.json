@@ -1,0 +1,22 @@
+{
+  "name": "fastresize",
+  "version": "1.0.0",
+  "description": "Modern window resize event handler with backwards compatibility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fdanielsen/fastresize.git"
+  },
+  "author": "Frode Danielsen <frode@e5r.no>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdanielsen/fastresize/issues"
+  },
+  "homepage": "https://github.com/fdanielsen/fastresize",
+  "dependencies": {
+    "lodash.debounce": "^2.4.1"
+  }
+}
